@@ -1,7 +1,1 @@
-Abraham Williams | abraham@poseurte.ch | http://abrah.am | @abraham
-
-The first PHP library for working with Twitter's OAuth API.
-
-Documentation: http://wiki.github.com/abraham/twitteroauth/documentation 
-Source: http://github.com/abraham/twitteroauth
-Twitter: http://apiwiki.twitter.com
+Twitagme was created ~2008 (pre-instagram) with the idea to tag twitter followers in pictures that could be search and added to albumbs. It was also my attempt to integrate PHP with twitter. 
