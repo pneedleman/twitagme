@@ -1,0 +1,218 @@
+	 Array
+(
+    [0] => stdClass Object
+        (
+            [retweet_count] => 4
+            [in_reply_to_status_id] => 
+            [text] => PC Liquid Cooling System: Build It Yourself http://bit.ly/k9jeg9
+            [created_at] => Tue May 17 03:56:53 +0000 2011
+            [in_reply_to_screen_name] => 
+            [in_reply_to_status_id_str] => 
+            [contributors] => 
+            [retweeted] => 
+            [in_reply_to_user_id_str] => 
+            [source] => <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a> 
+            [id_str] => 70336963386949632
+            [place] => 
+            [coordinates] => 
+            [geo] => 
+            [in_reply_to_user_id] => 
+            [truncated] => 
+            [user] => stdClass Object
+                (
+                    [notifications] => 
+                    [created_at] => Tue May 15 19:20:20 +0000 2007
+                    [profile_sidebar_border_color] => a6a6a6
+                    [default_profile_image] => 
+                    [statuses_count] => 6825
+                    [following] => 1
+                    [description] => The official Twitter feed for PCWorld.com and PCWorld Magazine. For readers with a  consuming interest in technology. 
+                    [profile_use_background_image] => 1
+                    [friends_count] => 1376
+                    [profile_image_url] => http://a0.twimg.com/profile_images/1120530508/PCW-Logo-73x73_normal.jpg
+                    [verified] => 1
+                    [profile_background_color] => 000000
+                    [follow_request_sent] => 
+                    [profile_background_image_url] => http://a3.twimg.com/profile_background_images/167468390/TwitterBG_PCW-1010.jpg
+                    [favourites_count] => 1
+                    [screen_name] => pcworld
+                    [id_str] => 6070762
+                    [default_profile] => 
+                    [profile_text_color] => 000000
+                    [is_translator] => 
+                    [lang] => en
+                    [profile_sidebar_fill_color] => ededed
+                    [followers_count] => 60579
+                    [protected] => 
+                    [location] => San Francisco, CA
+                    [listed_count] => 4071
+                    [profile_background_tile] => 1
+                    [name] => PCWorld
+                    [show_all_inline_media] => 
+                    [geo_enabled] => 
+                    [url] => http://www.pcworld.com/
+                    [id] => 6070762
+                    [contributors_enabled] => 1
+                    [time_zone] => Pacific Time (US & Canada)
+                    [utc_offset] => -28800
+                    [profile_link_color] => 336699
+                )
+ 
+            [id] => 70336963386949632
+            [favorited] => 
+        )
+ 
+    [1] => stdClass Object
+        (
+            [retweet_count] => 0
+            [in_reply_to_status_id] => 
+            [text] => RT @adamschechter: Using @peteralfonso 's GPA15 #Gingerbread and streaming Netflix using 3g on my awesome OG #Droid. The whole concept i ...
+            [created_at] => Tue May 17 03:52:01 +0000 2011
+            [in_reply_to_screen_name] => 
+            [in_reply_to_status_id_str] => 
+            [contributors] => 
+            [retweeted] => 
+            [in_reply_to_user_id_str] => 
+            [source] => <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a> 
+            [retweeted_status] => stdClass Object
+                (
+                    [retweet_count] => 0
+                    [in_reply_to_status_id] => 
+                    [text] => Using @peteralfonso 's GPA15 #Gingerbread and streaming Netflix using 3g on my awesome OG #Droid. The whole concept is #winning.
+                    [created_at] => Tue May 17 03:49:32 +0000 2011
+                    [in_reply_to_screen_name] => 
+                    [in_reply_to_status_id_str] => 
+                    [contributors] => 
+                    [retweeted] => 
+                    [in_reply_to_user_id_str] => 
+                    [source] => <a href="http://www.twittergadget.com" rel="nofollow">tGadget</a> 
+                    [id_str] => 70335115129143297
+                    [place] => 
+                    [coordinates] => 
+                    [geo] => 
+                    [in_reply_to_user_id] => 
+                    [truncated] => 
+                    [user] => stdClass Object
+                        (
+                            [notifications] => 
+                            [created_at] => Fri Mar 06 02:14:02 +0000 2009
+                            [profile_sidebar_border_color] => 5ED4DC
+                            [is_translator] => 
+                            [following] => 
+                            [description] => Susie is my darling. I teach government, yet want it shrunk as small as possible. Weird?
+                            [listed_count] => 14
+                            [statuses_count] => 1229
+                            [profile_use_background_image] => 1
+                            [profile_image_url] => http://a1.twimg.com/profile_images/125626984/twitterpic_normal.jpg
+                            [contributors_enabled] => 
+                            [verified] => 
+                            [profile_background_color] => 0099B9
+                            [profile_background_image_url] => http://a3.twimg.com/images/themes/theme4/bg.gif
+                            [favourites_count] => 0
+                            [screen_name] => adamschechter
+                            [id_str] => 23015762
+                            [default_profile_image] => 
+                            [profile_text_color] => 3C3940
+                            [lang] => en
+                            [profile_sidebar_fill_color] => 95E8EC
+                            [followers_count] => 313
+                            [protected] => 
+                            [location] => Alexandria, Virginia
+                            [profile_background_tile] => 
+                            [name] => Adam Schechter
+                            [default_profile] => 
+                            [follow_request_sent] => 
+                            [friends_count] => 376
+                            [url] => http://theperennialquest.blogspot.com
+                            [id] => 23015762
+                            [show_all_inline_media] => 
+                            [geo_enabled] => 1
+                            [time_zone] => Central Time (US & Canada)
+                            [utc_offset] => -21600
+                            [profile_link_color] => 0099B9
+                        )
+ 
+                    [id] => 70335115129143297
+                    [favorited] => 
+                )
+ 
+            [id_str] => 70335740399206401
+            [place] => 
+            [coordinates] => 
+            [geo] => 
+            [in_reply_to_user_id] => 
+            [truncated] => 1
+            [user] => stdClass Object
+                (
+                    [notifications] => 
+                    [created_at] => Sat Feb 20 02:12:01 +0000 2010
+                    [profile_sidebar_border_color] => C0DEED
+                    [is_translator] => 
+                    [following] => 1
+                    [description] => Android dev
+                    [listed_count] => 367
+                    [statuses_count] => 2098
+                    [profile_use_background_image] => 1
+                    [profile_image_url] => http://a1.twimg.com/profile_images/1316218050/n1388826729_30398909_78097_normal.jpg
+                    [contributors_enabled] => 
+                    [verified] => 
+                    [profile_background_color] => C0DEED
+                    [profile_background_image_url] => http://a2.twimg.com/profile_background_images/117627654/2hnnxjc.png
+                    [favourites_count] => 0
+                    [screen_name] => peteralfonso
+                    [id_str] => 115815165
+                    [default_profile_image] => 
+                    [profile_text_color] => 333333
+                    [lang] => en
+                    [profile_sidebar_fill_color] => DDEEF6
+                    [followers_count] => 8302
+                    [protected] => 
+                    [location] => Florida, U.S.
+                    [profile_background_tile] => 1
+                    [name] => Peter Alfonso
+                    [default_profile] => 
+                    [follow_request_sent] => 
+                    [friends_count] => 174
+                    [url] => http://www.peteralfonso.com/
+                    [id] => 115815165
+                    [show_all_inline_media] => 
+                    [geo_enabled] => 
+                    [time_zone] => Eastern Time (US & Canada)
+                    [utc_offset] => -18000
+                    [profile_link_color] => 0084B4
+                )
+ 
+            [id] => 70335740399206401
+            [favorited] => 
+        )
+ 
+    [2] => stdClass Object
+        (
+            [retweet_count] => 1
+            [in_reply_to_status_id] => 
+            [text] => i wana watch...the roomate
+            [created_at] => Tue May 17 03:41:46 +0000 2011
+            [in_reply_to_screen_name] => 
+            [in_reply_to_status_id_str] => 
+            [contributors] => 
+            [retweeted] => 
+            [in_reply_to_user_id_str] => 
+            [source] => web
+            [id_str] => 70333157215436801
+            [place] => 
+            [coordinates] => 
+            [geo] => 
+            [in_reply_to_user_id] => 
+            [truncated] => 
+            [user] => stdClass Object
+                (
+                    [show_all_inline_media] => 
+                    [geo_enabled] => 1
+                    [notifications] => 
+                    [created_at] => Tue Jan 05 01:50:35 +0000 2010
+                    [profile_sidebar_border_color] => C0DEED
+                    [contributors_enabled] => 
+                    [following] => 1
+                    [description] => drelieve
+                    [profile_use_background_image] => 1
+         
